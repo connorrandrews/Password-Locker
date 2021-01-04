@@ -1,4 +1,4 @@
-#This Script was created by Connor Andrews
+#This Script was created by Connor Andrews, Please DO NOT COPY
 from account import Account
 from credentials import Credentials
 
